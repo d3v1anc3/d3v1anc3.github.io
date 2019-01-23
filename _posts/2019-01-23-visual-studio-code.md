@@ -2,7 +2,21 @@
 layout: post
 title: "Visual Studio Code"
 description: ""
-category: 
+category: Setup
 tags: []
 ---
 {% include JB/setup %}
+
+# Creating blog posts in Visual Studio Code
+
+Testing how to add a blog post using Visual Studio Code
+
+Create a new post in the bash terminal by pressing ctrl-` (which deligtfully reminds me of my days playing Quake II) or selecting "View - Toggle Integrated Terminal" from the menu.
+
+```
+rake post title="Visual Studio Code"
+```
+
+This creates a new file in the _posts folder with the current data and title as its filename. For example: ```2019-01-23-visual-studio=code.md```
+
+
