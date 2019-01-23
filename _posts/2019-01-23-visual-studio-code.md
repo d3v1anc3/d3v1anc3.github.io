@@ -3,11 +3,9 @@ layout: post
 title: "Visual Studio Code"
 description: ""
 category: Setup
-tags: []
+tags: [Visual Studio Code, Jykell, Blog]
 ---
 {% include JB/setup %}
-
-# Creating blog posts in Visual Studio Code
 
 Testing how to add a blog post using Visual Studio Code
 
