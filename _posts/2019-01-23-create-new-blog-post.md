@@ -2,7 +2,7 @@
 layout: note
 title: "Create new blog post"
 description: ""
-category: Setup
+category: Snippet/Jykell
 tags: [Jykell, Blog]
 ---
 {% include JB/setup %}
