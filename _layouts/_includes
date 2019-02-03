@@ -2,4 +2,4 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/good-clean-read-master/_includes %}
+{% include themes/mediator-master/_includes %}

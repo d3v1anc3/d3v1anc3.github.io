@@ -1,0 +1,5 @@
+---
+layout: mediator-master
+---
+{% include JB/setup %}
+{% include themes/mediator-master/_posts %}

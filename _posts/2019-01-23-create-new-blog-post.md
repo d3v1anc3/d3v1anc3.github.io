@@ -9,7 +9,7 @@ tags: [Jykell, Blog]
 
 
 ```
-rake post title="<blog post title>"
+$rake post title="<blog post title>"
 ```
 
 

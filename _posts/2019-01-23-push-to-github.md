@@ -11,7 +11,7 @@ Commit changes
 
 ```
 git add .
-git commit = m "<Commit comment>"
+git commit -m "<Commit comment>"
 ```
 
 Push to Github with
